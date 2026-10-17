@@ -13,9 +13,11 @@ next-env.d.ts
 
 # Vercel
 .vercel/
+.vercel
 
 # Environment files (never commit secrets)
 .env
+.env*
 .env*.local
 
 # Test output / temp

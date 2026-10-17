@@ -6,8 +6,12 @@ Brain Arena is a fun (and slightly silly) brain-training website with **5 mini g
 
 ## 🌐 Live demo
 
-- **Live site:** _coming soon (added after the first Vercel deploy)_
+- **Live site:** https://brainarena-two.vercel.app
 - **Source:** https://github.com/DIVYAPRIYADHARSHINI-GIT/brainarena
+
+Try it: [Quick Math](https://brainarena-two.vercel.app/games/quick-math) · [Memory Match](https://brainarena-two.vercel.app/games/memory-match) · [Word Hunt](https://brainarena-two.vercel.app/games/word-hunt) · [Reaction Time](https://brainarena-two.vercel.app/games/reaction-time) · [Quiz Blitz](https://brainarena-two.vercel.app/games/quiz-blitz) · [Leaderboard](https://brainarena-two.vercel.app/leaderboard) · [Profile](https://brainarena-two.vercel.app/profile) · [Funny 404](https://brainarena-two.vercel.app/where-did-it-go)
+
+The live site passes the same 152-check headless-Chrome suite as local (`BASE_URL=https://brainarena-two.vercel.app npm run e2e`).
 
 ## 🎮 Games
 
